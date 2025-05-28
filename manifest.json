@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-python-runner",
+  "name": "Python Runner",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "You",
+  "description": "Run Python code blocks with a button",
+  "minAppVersion": "0.12.0"
+}
