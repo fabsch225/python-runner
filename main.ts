@@ -208,7 +208,7 @@ class PythonRunnerSettingTab extends PluginSettingTab {
     containerEl.createEl("h2", { text: "Python Runner Settings" });
     new Setting(containerEl)
       .setName("Python Path")
-      .setDesc("Path to the Python interpreter (e.g., from conda env)")
+      .setDesc("Path to the Python interpreter")
       .addText(text =>
         text
           .setPlaceholder("python")
@@ -220,7 +220,7 @@ class PythonRunnerSettingTab extends PluginSettingTab {
       );
     new Setting(containerEl)
       .setName("R Path")
-      .setDesc("Path to the Rscript interpreter (e.g., from conda env)")
+      .setDesc("Path to the R interpreter")
       .addText(text =>
         text
           .setPlaceholder("Rscript")
