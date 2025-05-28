@@ -1,5 +1,5 @@
 {
-  "id": "obsidian-python-runner",
+  "id": "python-runner",
   "name": "Python Runner",
   "version": "1.0.0",
   "main": "main.js",
