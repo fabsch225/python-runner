@@ -3,7 +3,11 @@
   "name": "Python Runner",
   "version": "1.0.0",
   "main": "main.js",
-  "author": "You",
-  "description": "Run Python code blocks with a button",
+  "author": "fabsch225",
+  "description": "Run Python and R snippets in Obsidian",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabsch225/python-runner"
+  },
   "minAppVersion": "0.12.0"
 }
